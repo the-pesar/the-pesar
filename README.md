@@ -1,2 +1,2 @@
-<p align="Center">“Talk is cheap. Show me the code.” — Linus Torvalds</p>
+<p align="Center">“Talk is cheap. Show me the code.”<br/>— Linus Torvalds</p>
     
